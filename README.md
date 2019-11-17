@@ -9,5 +9,6 @@ Por defecto, la aplicacion se levanta en localhost, puerto 5000, contexto **cvs-
 
 _http://localhost:5000/cvs-inspt_ 
 
+Para levantar la aplicación, ejecutar el comando **npm start**
 
 Nota: Antes de levantar la app, correr en la terminal (en la carpeta donde se encuentra el archivo _package.json_) el comando **npm install**
